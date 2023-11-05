@@ -12,7 +12,7 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"engines": {
-		"node": ">=18.18.0 <19.0.0"
+		"node": "18.17.1"
 	},	  
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^1.0.0",
