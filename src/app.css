@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-family: 'Lato', sans-serif ;
+    background-color: rgb(250,250,250) !important;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url("/Lato-Regular.ttf");
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url("/Lato-Bold.ttf");
+    font-weight: bold;
+}
+
+a {
+    text-decoration: dashed;
+    text-decoration-line: underline;
+}
