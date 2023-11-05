@@ -6,7 +6,12 @@ const config = {
     plugins: [
         sveltekit(),
         SvelteKitPWA()
-    ]
+    ],
+    server: {
+    host: true,
+    strictPort: true,
+    port: 8000,
+    }
 };
 
 export default config;
