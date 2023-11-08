@@ -3,15 +3,15 @@
 		This webapp was coded by <a
 			target="_blank"
 			rel="noreferrer"
-			href="https://www.thisislutz.com"
+			href="https://arshroopsaini.in"
 			title="lutzvdb"
 		>
-			Lutz von der Burchard
+			Arshroop Singh Saini
 		</a>, the source code is available on
 		<a
 			target="_blank"
 			rel="noreferrer"
-			href="https://github.com/lutzvdb/climatevisualizer"
+			href="https://github.com/Arshroop-Saini/visualizeclimate"
 			title="github"
 		>
 			github
